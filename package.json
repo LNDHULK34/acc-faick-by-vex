@@ -7,7 +7,7 @@
     "start": "node hama.js"
   },
   "dependencies": {
-    "discord.js": "^12.5.2",
+    "discord.js": "^13.14.0",
     "http": "^0.0.0",
     "express": "^4.17.1",
     "ytdl-core": "^4.4.5",
